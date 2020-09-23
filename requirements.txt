@@ -1,3 +1,11 @@
 streamlit
 pandas
 numpy
+gunicorn==20.0.4
+Jinja2==2.11.2
+joblib==0.15.1
+MarkupSafe==1.1.1
+virtualenv==20.0.7
+Werkzeug==1.0.1
+wincertstore==0.2
+scikit-learn==0.22.1
