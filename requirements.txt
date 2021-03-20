@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 gunicorn==20.0.4
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.15.1
 MarkupSafe==1.1.1
 virtualenv==20.0.7
